@@ -1,0 +1,19 @@
+# Quartus
+db/
+incremental_db/
+output_files/
+*.rpt
+*.qws
+*.sof
+*.pof
+
+# Vivado (safe to keep even if you’re on Quartus)
+.Xil/
+*.runs/
+*.cache/
+*.jou
+*.log
+
+# General
+*.bak
+*.vcd
