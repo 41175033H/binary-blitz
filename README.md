@@ -1,4 +1,4 @@
-# Binary Blitz — FPGA Mini-Game
+# Binary Blitz — FPGA Mini-Game 
 
 Match the displayed decimal number in **binary** on the switches before the **buzzer** sounds. Built for Digital Lab final project.
 
@@ -37,7 +37,7 @@ Match the displayed decimal number in **binary** on the switches before the **bu
 ## Demo
 - Full video: [link](https://www.youtube.com/watch?v=8COTSkyvL00)
 - 30-sec video: [link](https://www.youtube.com/watch?v=DdROMYIEj-0)
-- Screenshot/GIF: `media/demo.jpg`
+- Screenshot/GIF: `media/demo.png`
 
 ## Authors
 吳炳煌, 張慎修，MIT License.
