@@ -7,13 +7,14 @@ output_files/
 *.sof
 *.pof
 
-# Vivado (safe to keep even if you’re on Quartus)
+# General
+*.bak
+*.vcd
+
+# Vivado
 .Xil/
 *.runs/
 *.cache/
 *.jou
 *.log
 
-# General
-*.bak
-*.vcd
