@@ -23,9 +23,6 @@ Match the displayed decimal number in **binary** on the switches before the **bu
 3. **Compile**.
 4. **Program Device** via USB-Blaster.
 
-## Design
-![Block Diagram](docs/block-diagram.png)
-
 ## Pin Map (timer.qsf)
 | Signal | Pin | Notes |
 |-------|-----|------|
